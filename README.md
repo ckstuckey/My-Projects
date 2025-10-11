@@ -5,7 +5,6 @@ Each file is an independent script or exercise, built to explore Python networki
 
 ## Files
 - **networkscanner.py** — A simple ARP-based network scanner built with Scapy.
-- **udp_client.py / udp_server.py** — UDP communication demo scripts.
 
 ## Author
 Created by **ckstuckey**
